@@ -3,7 +3,9 @@ img {
     width: 500px;
 }
 
-.titles {
+h1 {
     text-align: center;
     background-color: yellow;
 }
+
+
